@@ -85,7 +85,7 @@ describe('angularjs homepage todo list', function() {
 				//	expect(actual_length).to.have.lengthOf(33);
 					//title.should.equal("my name");
 					
-				//	actual_length.should.have.lengthOf(34); jio ho
+				//	actual_length.should.have.lengthOf(34);
 					title.should.be.a("String");
 					assert.equal(title,"my name ", "title does not match");
 					
